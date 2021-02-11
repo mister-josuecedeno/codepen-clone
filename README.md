@@ -10,5 +10,5 @@ Practice fundamental concepts of React, like useState and useEffect, to build a 
 
 ## Dependencies
 
-Codemirror (this is the actual text editor) - https://codemirror.net/
-@fortawesome (great for font awesome icons)
+- Codemirror (this is the actual text editor) - https://codemirror.net/
+- @fortawesome (great for font awesome icons)
